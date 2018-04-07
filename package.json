@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/davidlatuno/liri-node-app.git"
   },
-  "keywords": ["Twitter", "Spotify", "OMDB"],
+  "keywords": [
+    "Twitter",
+    "Spotify",
+    "OMDB"
+  ],
   "author": "David Latuno",
   "license": "ISC",
   "bugs": {
@@ -19,6 +23,7 @@
   "homepage": "https://github.com/davidlatuno/liri-node-app#readme",
   "dependencies": {
     "dotenv": "^5.0.1",
+    "inquirer": "^5.2.0",
     "node-spotify-api": "^1.0.7",
     "request": "^2.85.0",
     "twitter": "^1.7.1"
