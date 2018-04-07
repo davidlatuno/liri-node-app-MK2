@@ -1,0 +1,443 @@
+
+
+Tweets:
+
+Tweet Test 2
+Fri Apr 06 16:37:50 +0000 2018
+
+Tweet Test 1
+Fri Apr 06 16:37:39 +0000 2018
+
+Coding RULES!
+Fri Apr 06 02:08:59 +0000 2018
+
+RT @ConanOBrien: When I was a kid I thought by now we’d be living on the moon and zipping around in flying cars and sleeping in the same ro…
+Fri Apr 06 02:08:46 +0000 2018
+
+RT @StephenAtHome: The military's responsibilities according to Trump: 
+1. build walls 
+2. parades! 
+3. excuse bone spurs 
+4. war &amp; misc.
+Fri Apr 06 02:08:34 +0000 2018
+
+RT @jimmykimmel: Today we honor a man who gave his life to make America a better place. His #DreamStillLives #MLK50 https://t.co/PpR4v6SAd5
+Fri Apr 06 02:08:10 +0000 2018
+
+RT @rejectedjokes: Just realized I was singing Don’t Walk Away by Jade loudly in the men’s locker room and people did in fact walk away.
+Fri Apr 06 02:07:23 +0000 2018
+
+RT @BillMurray: Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bath…
+Fri Apr 06 02:05:42 +0000 2018
+
+Hello World!
+Thu Apr 05 23:32:21 +0000 2018
+
+Movie Search:
+
+Title: Mr. Nobody
+Year: 2009
+Internet Movie Database: 7.9/10
+Rotten Tomatoes: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language(s): English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Spotify Search:
+
+Artists(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Album from: Greatest Hits
+
+Spotify Search:
+
+Artists(s): Ace of Base
+Song Name: The Sign
+Preview Link: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Album from: Greatest Hits
+
+Spotify Search:
+
+Artists(s): Michael Jackson
+Song Name: Beat It - Single Version
+Preview Link: https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj
+Album from: Thriller 25 Super Deluxe Edition
+
+Artists(s): The Beatles
+Song Name: Let It Be - Remastered
+Preview Link: https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48
+Album from: Let It Be (Remastered)
+
+Artists(s): Michael Jackson
+Song Name: Beat It - Single Version
+Preview Link: https://open.spotify.com/track/6pBM20jZldvNlbNcnwAX0y
+Album from: Michael Jackson's This Is It
+
+Artists(s): Sean Kingston
+Song Name: Beat It
+Preview Link: https://open.spotify.com/track/3bwCMbwDZVtvJDnUTQIdCX
+Album from: Back 2 Life
+
+Artists(s): The Beatles
+Song Name: Across The Universe - Remastered
+Preview Link: https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF
+Album from: Let It Be (Remastered)
+
+Artists(s): Michael Jackson
+Song Name: Beat It - Single Version
+Preview Link: https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw
+Album from: Thriller
+
+Artists(s): The Beatles
+Song Name: We Can Work It Out - Remastered 2015
+Preview Link: https://open.spotify.com/track/1hTUFqJuQAMjXVGwUPWDqi
+Album from: 1 (Remastered)
+
+Artists(s): Tom Misch
+Song Name: In the Midst of It All
+Preview Link: https://open.spotify.com/track/6vPDjg4zuLlJrzgm9vqZCj
+Album from: Beat Tape 2
+
+Artists(s): The Beatles
+Song Name: Get Back - Remastered
+Preview Link: https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26
+Album from: Let It Be (Remastered)
+
+Artists(s): The English Beat
+Song Name: Save It For Later
+Preview Link: https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5
+Album from: Special Beat Service (Remastered)
+
+Artists(s): Fall Out Boy
+Song Name: Beat It
+Preview Link: https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1
+Album from: Believers Never Die - Greatest Hits
+
+Artists(s): The Beatles
+Song Name: The Long And Winding Road - Remastered
+Preview Link: https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh
+Album from: Let It Be (Remastered)
+
+Artists(s): The Beatles
+Song Name: Let It Be - Remastered 2015
+Preview Link: https://open.spotify.com/track/4qsVPnhbvEooD1bSNqvvh0
+Album from: 1 (Remastered)
+
+Artists(s): Michael Jackson
+Song Name: Beat It
+Preview Link: https://open.spotify.com/track/52xaypL0Kjzk0ngwv3oBPR
+Album from: HIStory - PAST, PRESENT AND FUTURE - BOOK I
+
+Artists(s): Fall Out Boy
+Song Name: Beat It - Studio Version Featuring John Mayer
+Preview Link: https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa
+Album from: Live In Phoenix
+
+Artists(s): Lil' Flip
+Song Name: Beat It
+Preview Link: https://open.spotify.com/track/66spCOPUk3vZ71MeP1MlFT
+Album from: King
+
+Artists(s): The Beatles
+Song Name: Two Of Us - Remastered
+Preview Link: https://open.spotify.com/track/0CaBBQsaAiRHhiLmzi7ZRp
+Album from: Let It Be (Remastered)
+
+Artists(s): The Beatles
+Song Name: Dig It - Remastered
+Preview Link: https://open.spotify.com/track/0eRyOunOVBChlXxIvqwOxH
+Album from: Let It Be (Remastered)
+
+Artists(s): The Beatles
+Song Name: I've Got A Feeling - Remastered
+Preview Link: https://open.spotify.com/track/3gwRWIbr5ycEVLIAXrWaw7
+Album from: Let It Be (Remastered)
+
+Artists(s): Gucci Mane
+Song Name: Beat It Up (feat. Trey Songz)
+Preview Link: https://open.spotify.com/track/3xkt8JggoSSXoZ8xjjNi3a
+Album from: Burrrprint [2] HD
+
+Movie Search:
+
+Title: Mr. Nobody
+Year: 2009
+Internet Movie Database: 7.9/10
+Rotten Tomatoes: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language(s): English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Movie Search:
+
+Title: Remember the Titans
+Year: 2000
+Internet Movie Database: 7.8/10
+Rotten Tomatoes: 73%
+Country: USA
+Language(s): English
+Plot: The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.
+Actors: Denzel Washington, Will Patton, Wood Harris, Ryan Hurst
+
+Tweets:
+
+Tweet Test 2
+Fri Apr 06 16:37:50 +0000 2018
+
+Tweet Test 1
+Fri Apr 06 16:37:39 +0000 2018
+
+Coding RULES!
+Fri Apr 06 02:08:59 +0000 2018
+
+RT @ConanOBrien: When I was a kid I thought by now we’d be living on the moon and zipping around in flying cars and sleeping in the same ro…
+Fri Apr 06 02:08:46 +0000 2018
+
+RT @StephenAtHome: The military's responsibilities according to Trump: 
+1. build walls 
+2. parades! 
+3. excuse bone spurs 
+4. war &amp; misc.
+Fri Apr 06 02:08:34 +0000 2018
+
+RT @jimmykimmel: Today we honor a man who gave his life to make America a better place. His #DreamStillLives #MLK50 https://t.co/PpR4v6SAd5
+Fri Apr 06 02:08:10 +0000 2018
+
+RT @rejectedjokes: Just realized I was singing Don’t Walk Away by Jade loudly in the men’s locker room and people did in fact walk away.
+Fri Apr 06 02:07:23 +0000 2018
+
+RT @BillMurray: Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bath…
+Fri Apr 06 02:05:42 +0000 2018
+
+Hello World!
+Thu Apr 05 23:32:21 +0000 2018
+
+Tweets:
+
+Tweet Test 2
+Fri Apr 06 16:37:50 +0000 2018
+
+Tweet Test 1
+Fri Apr 06 16:37:39 +0000 2018
+
+Coding RULES!
+Fri Apr 06 02:08:59 +0000 2018
+
+RT @ConanOBrien: When I was a kid I thought by now we’d be living on the moon and zipping around in flying cars and sleeping in the same ro…
+Fri Apr 06 02:08:46 +0000 2018
+
+RT @StephenAtHome: The military's responsibilities according to Trump: 
+1. build walls 
+2. parades! 
+3. excuse bone spurs 
+4. war &amp; misc.
+Fri Apr 06 02:08:34 +0000 2018
+
+RT @jimmykimmel: Today we honor a man who gave his life to make America a better place. His #DreamStillLives #MLK50 https://t.co/PpR4v6SAd5
+Fri Apr 06 02:08:10 +0000 2018
+
+RT @rejectedjokes: Just realized I was singing Don’t Walk Away by Jade loudly in the men’s locker room and people did in fact walk away.
+Fri Apr 06 02:07:23 +0000 2018
+
+RT @BillMurray: Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bath…
+Fri Apr 06 02:05:42 +0000 2018
+
+Hello World!
+Thu Apr 05 23:32:21 +0000 2018
+
+Movie Search:
+
+Title: Titanic
+Year: 1997
+Internet Movie Database: 7.8/10
+Rotten Tomatoes: 88%
+Country: USA
+Language(s): English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+Tweets:
+
+Tweet Test 2
+Fri Apr 06 16:37:50 +0000 2018
+
+Tweet Test 1
+Fri Apr 06 16:37:39 +0000 2018
+
+Coding RULES!
+Fri Apr 06 02:08:59 +0000 2018
+
+RT @ConanOBrien: When I was a kid I thought by now we’d be living on the moon and zipping around in flying cars and sleeping in the same ro…
+Fri Apr 06 02:08:46 +0000 2018
+
+RT @StephenAtHome: The military's responsibilities according to Trump: 
+1. build walls 
+2. parades! 
+3. excuse bone spurs 
+4. war &amp; misc.
+Fri Apr 06 02:08:34 +0000 2018
+
+RT @jimmykimmel: Today we honor a man who gave his life to make America a better place. His #DreamStillLives #MLK50 https://t.co/PpR4v6SAd5
+Fri Apr 06 02:08:10 +0000 2018
+
+RT @rejectedjokes: Just realized I was singing Don’t Walk Away by Jade loudly in the men’s locker room and people did in fact walk away.
+Fri Apr 06 02:07:23 +0000 2018
+
+RT @BillMurray: Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bath…
+Fri Apr 06 02:05:42 +0000 2018
+
+Hello World!
+Thu Apr 05 23:32:21 +0000 2018
+
+Tweets:
+
+Tweet Test 2
+Fri Apr 06 16:37:50 +0000 2018
+
+Tweet Test 1
+Fri Apr 06 16:37:39 +0000 2018
+
+Coding RULES!
+Fri Apr 06 02:08:59 +0000 2018
+
+RT @ConanOBrien: When I was a kid I thought by now we’d be living on the moon and zipping around in flying cars and sleeping in the same ro…
+Fri Apr 06 02:08:46 +0000 2018
+
+RT @StephenAtHome: The military's responsibilities according to Trump: 
+1. build walls 
+2. parades! 
+3. excuse bone spurs 
+4. war &amp; misc.
+Fri Apr 06 02:08:34 +0000 2018
+
+RT @jimmykimmel: Today we honor a man who gave his life to make America a better place. His #DreamStillLives #MLK50 https://t.co/PpR4v6SAd5
+Fri Apr 06 02:08:10 +0000 2018
+
+RT @rejectedjokes: Just realized I was singing Don’t Walk Away by Jade loudly in the men’s locker room and people did in fact walk away.
+Fri Apr 06 02:07:23 +0000 2018
+
+RT @BillMurray: Nothing prepared me for being this awesome. It's kind of a shock. It's kind of a shock to wake up every morning and be bath…
+Fri Apr 06 02:05:42 +0000 2018
+
+Hello World!
+Thu Apr 05 23:32:21 +0000 2018
+
+Movie Search:
+
+Title: The Wolf of Wall Street
+Year: 2013
+Internet Movie Database: 8.2/10
+Rotten Tomatoes: 78%
+Country: USA
+Language(s): English, French
+Plot: Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.
+Actors: Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey
+
+Movie Search:
+
+Movie not found!
+
+Spotify Search:
+
+Artists(s): Michael Jackson
+Song Name: Beat It - Single Version
+Preview Link: https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj
+Album from: Thriller 25 Super Deluxe Edition
+
+Artists(s): The Beatles
+Song Name: Let It Be - Remastered
+Preview Link: https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48
+Album from: Let It Be (Remastered)
+
+Artists(s): Michael Jackson
+Song Name: Beat It - Single Version
+Preview Link: https://open.spotify.com/track/6pBM20jZldvNlbNcnwAX0y
+Album from: Michael Jackson's This Is It
+
+Artists(s): Sean Kingston
+Song Name: Beat It
+Preview Link: https://open.spotify.com/track/3bwCMbwDZVtvJDnUTQIdCX
+Album from: Back 2 Life
+
+Artists(s): The Beatles
+Song Name: Across The Universe - Remastered
+Preview Link: https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF
+Album from: Let It Be (Remastered)
+
+Artists(s): Michael Jackson
+Song Name: Beat It - Single Version
+Preview Link: https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw
+Album from: Thriller
+
+Artists(s): The Beatles
+Song Name: We Can Work It Out - Remastered 2015
+Preview Link: https://open.spotify.com/track/1hTUFqJuQAMjXVGwUPWDqi
+Album from: 1 (Remastered)
+
+Artists(s): Tom Misch
+Song Name: In the Midst of It All
+Preview Link: https://open.spotify.com/track/6vPDjg4zuLlJrzgm9vqZCj
+Album from: Beat Tape 2
+
+Artists(s): The Beatles
+Song Name: Get Back - Remastered
+Preview Link: https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26
+Album from: Let It Be (Remastered)
+
+Artists(s): The English Beat
+Song Name: Save It For Later
+Preview Link: https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5
+Album from: Special Beat Service (Remastered)
+
+Artists(s): Fall Out Boy
+Song Name: Beat It
+Preview Link: https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1
+Album from: Believers Never Die - Greatest Hits
+
+Artists(s): The Beatles
+Song Name: The Long And Winding Road - Remastered
+Preview Link: https://open.spotify.com/track/3mlMpmY8oZIBFc39D9zLbh
+Album from: Let It Be (Remastered)
+
+Artists(s): The Beatles
+Song Name: Let It Be - Remastered 2015
+Preview Link: https://open.spotify.com/track/4qsVPnhbvEooD1bSNqvvh0
+Album from: 1 (Remastered)
+
+Artists(s): Michael Jackson
+Song Name: Beat It
+Preview Link: https://open.spotify.com/track/52xaypL0Kjzk0ngwv3oBPR
+Album from: HIStory - PAST, PRESENT AND FUTURE - BOOK I
+
+Artists(s): Fall Out Boy
+Song Name: Beat It - Studio Version Featuring John Mayer
+Preview Link: https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa
+Album from: Live In Phoenix
+
+Artists(s): Lil' Flip
+Song Name: Beat It
+Preview Link: https://open.spotify.com/track/66spCOPUk3vZ71MeP1MlFT
+Album from: King
+
+Artists(s): The Beatles
+Song Name: Two Of Us - Remastered
+Preview Link: https://open.spotify.com/track/0CaBBQsaAiRHhiLmzi7ZRp
+Album from: Let It Be (Remastered)
+
+Artists(s): The Beatles
+Song Name: Dig It - Remastered
+Preview Link: https://open.spotify.com/track/0eRyOunOVBChlXxIvqwOxH
+Album from: Let It Be (Remastered)
+
+Artists(s): The Beatles
+Song Name: I've Got A Feeling - Remastered
+Preview Link: https://open.spotify.com/track/3gwRWIbr5ycEVLIAXrWaw7
+Album from: Let It Be (Remastered)
+
+Artists(s): Gucci Mane
+Song Name: Beat It Up (feat. Trey Songz)
+Preview Link: https://open.spotify.com/track/3xkt8JggoSSXoZ8xjjNi3a
+Album from: Burrrprint [2] HD
