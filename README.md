@@ -1,7 +1,9 @@
-# liri-node-app
+# liri-node-app-MK2
 Use node.js to interact with Twitter, Spotify, and OMDB APIs
 
 Reformatted with inquirer to handle user input
+
+See [liri-node-app](https://github.com/davidlatuno/liri-node-app) for original version
 
 ### Liri can:
  - Print a user's tweets
