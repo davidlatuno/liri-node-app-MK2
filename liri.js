@@ -76,7 +76,10 @@ function userSpotify() {
                     })
                     .catch(function (err) {
                         console.error('Error occurred: ' + err);
-                    });
+                    })
+                    .then(function () {
+                        userSays()
+                    })
             } else {
                 // Handle User Input
                 spotify.search({ type: 'track', query: searchName }, function (err, data) {
@@ -104,6 +107,12 @@ function userSpotify() {
                             })
                         }
                     }
+                    return new Promise(function (resolve, reject) {
+                        resolve(1);
+                    })
+                        .then(function (result) {
+                            userSays()
+                        })
                 });
             }
         })
@@ -147,6 +156,12 @@ function userMovie() {
                             }
                         })
                     }
+                    return new Promise(function (resolve, reject) {
+                        resolve(1);
+                    })
+                        .then(function (result) {
+                            userSays()
+                        })
                 })
             } else {
                 request(queryUrl, function (error, response, body) {
@@ -177,6 +192,12 @@ function userMovie() {
                     } else {
                         console.log("Something went wrong");
                     }
+                    return new Promise(function (resolve, reject) {
+                        resolve(1);
+                    })
+                        .then(function (result) {
+                            userSays()
+                        })
                 })
             }
         })
@@ -203,6 +224,12 @@ function userTweet() {
                 }
             })
         }
+        return new Promise(function (resolve, reject) {
+            resolve(1);
+        })
+            .then(function (result) {
+                userSays()
+            })
     });
 }
 
@@ -217,6 +244,12 @@ function history() {
         } else {
             console.log("User History:" + data + "\n\n");
         }
+        return new Promise(function (resolve, reject) {
+            resolve(1);
+        })
+            .then(function (result) {
+                userSays()
+            })
     })
 }
 
@@ -227,7 +260,7 @@ function userSays() {
             {
                 type: "list",
                 message: `What would you like to do?`,
-                choices: ["See my tweets", "Search a movie", "Search a song", "See my history", "Random"],
+                choices: ["See my tweets", "Search a movie", "Search a song", "See my history", "Random", "Exit"],
                 name: "functionPick"
             }
         ])
@@ -252,6 +285,9 @@ function userSays() {
 
                 case "Random":
                     dwis();
+                    break;
+
+                case "Exit":
                     break;
             }
         })
