@@ -14,7 +14,13 @@ See [liri-node-app](https://github.com/davidlatuno/liri-node-app) for original v
 
 ### Liri Commands
 
-Follow the inquirers prompts to access Liri functions
+Enter the following to the terminal/command line:
+
+```
+node liri.js
+```
+
+Then follow the inquirer's prompts to access Liri functions
 
 ### Requirements:
 
